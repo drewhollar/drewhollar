@@ -1,6 +1,6 @@
 - Hey there! I’m @drewhollar (Drew Hollar) and I am a second year computer science student at the Univeristy of Virginia!
 - I am passionate about the world of software engineering and am eager to expand my knowledge and gain experience in the field.
-- I have spent several months working as an intern at Actualize Consulting where I have learned a lot about RPA work, cybersecurity, web design,
+- I have spent several months working as an intern at Actualize Consulting where I have learned a lot about RPA work, cybersecurity, web design.
 - as well as more general professional skills such as Excel and PowerPoint.
 - I am open to summer internships, please reach out if you are interested!
 - School email: mhc3cm@virginia.edu
